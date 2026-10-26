@@ -1,0 +1,16 @@
+# contest working copy (contains the organizer-published dataset - not redistributed here)
+hackerrank-orchestrate-october26/
+dataset/
+
+# agent scratch: probes, model-response caches, packaged submission
+work/
+code.zip
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# credentials
+.env
